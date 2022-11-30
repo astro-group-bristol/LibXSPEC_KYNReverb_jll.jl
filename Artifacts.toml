@@ -1,0 +1,71 @@
+[[LibXSPEC_KYNReverb]]
+arch = "aarch64"
+git-tree-sha1 = "ee11525284e36d4477fe0153b1e0d4dcb2dd0142"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[LibXSPEC_KYNReverb.download]]
+    sha256 = "3c8ac39f9d0c3805b0bdce74043239196818dc26d1433e4cd1cbcdb27503ed8c"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_KYNReverb_jll.jl/releases/download/LibXSPEC_KYNReverb-v0.1.0+0/LibXSPEC_KYNReverb.v0.1.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[LibXSPEC_KYNReverb]]
+arch = "x86_64"
+git-tree-sha1 = "5e202d20b367f3e5c1b52d784d3b3ec231f82559"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[LibXSPEC_KYNReverb.download]]
+    sha256 = "796dcd0d0e2030b625adf787a073d1923a384caa62172fb17f4ba4bd6e320358"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_KYNReverb_jll.jl/releases/download/LibXSPEC_KYNReverb-v0.1.0+0/LibXSPEC_KYNReverb.v0.1.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[LibXSPEC_KYNReverb]]
+arch = "x86_64"
+git-tree-sha1 = "aedb1c148ca08ac749292036baafb8b1d7176928"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[LibXSPEC_KYNReverb.download]]
+    sha256 = "0a6a6765c62546c0318a3c57ec2c48a2814be5d04cee1d4b269df1731107ec74"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_KYNReverb_jll.jl/releases/download/LibXSPEC_KYNReverb-v0.1.0+0/LibXSPEC_KYNReverb.v0.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[LibXSPEC_KYNReverb]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "acebf27f4e0408adeeea43b4f3fe1b79e030fdbd"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LibXSPEC_KYNReverb.download]]
+    sha256 = "838dabec3cc6882318dadb2d5632d7fab8408d23d1d87387fb47e0fb786bffd3"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_KYNReverb_jll.jl/releases/download/LibXSPEC_KYNReverb-v0.1.0+0/LibXSPEC_KYNReverb.v0.1.0.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[LibXSPEC_KYNReverb]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "acebf27f4e0408adeeea43b4f3fe1b79e030fdbd"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LibXSPEC_KYNReverb.download]]
+    sha256 = "838dabec3cc6882318dadb2d5632d7fab8408d23d1d87387fb47e0fb786bffd3"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_KYNReverb_jll.jl/releases/download/LibXSPEC_KYNReverb-v0.1.0+0/LibXSPEC_KYNReverb.v0.1.0.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[LibXSPEC_KYNReverb]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ccfe3641dd4c7a2dc8f1a5d0c5a5328adf682f50"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LibXSPEC_KYNReverb.download]]
+    sha256 = "254be76032d8f5b1d6f50c204a888f2fd5173951b89975e74516b0bb6820cd4d"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_KYNReverb_jll.jl/releases/download/LibXSPEC_KYNReverb-v0.1.0+0/LibXSPEC_KYNReverb.v0.1.0.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[LibXSPEC_KYNReverb]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ccfe3641dd4c7a2dc8f1a5d0c5a5328adf682f50"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LibXSPEC_KYNReverb.download]]
+    sha256 = "254be76032d8f5b1d6f50c204a888f2fd5173951b89975e74516b0bb6820cd4d"
+    url = "https://github.com/astro-group-bristol/LibXSPEC_KYNReverb_jll.jl/releases/download/LibXSPEC_KYNReverb-v0.1.0+0/LibXSPEC_KYNReverb.v0.1.0.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"

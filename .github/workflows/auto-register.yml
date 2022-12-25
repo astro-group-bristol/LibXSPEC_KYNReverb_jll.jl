@@ -47,20 +47,20 @@ jobs:
       - name: Create new branch
         run: |
           cd ~/.julia/registries/AstroRegistry
-          git checkout -b "bot/libxspec_jll"
+          git checkout -b "bot/libxspec_kynreverb_jll"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.SECRET_PR_TOKEN }}
           repository: "astro-group-bristol/AstroRegistry"
           directory: "/home/runner/.julia/registries/AstroRegistry"
-          branch: "bot/libxspec_jll"
+          branch: "bot/libxspec_kynreverb_jll"
       - name: Create pull request
         run: |
           cd ~/.julia/registries/AstroRegistry
           gh pr create -B main \
-            --title "New Version: LibXSPEC_jll" \
+            --title "New Version: LibXSPEC_KYNReverb_jll" \
             --body "Automated pull request." \
-            -H "bot/libxspec_jll"
+            -H "bot/libxspec_kynreverb_jll"
         env:
             GITHUB_TOKEN: ${{ secrets.SECRET_PR_TOKEN }}
